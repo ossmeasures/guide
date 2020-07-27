@@ -1,8 +1,8 @@
 const githubUrl = "https://github.com/ossmeasures/guide";
 
 module.exports = {
-  title: "OSS施作ガイドライン",
-  tagline: "AWS OSS施作ガイドライン",
+  title: "OSS施策ガイドライン",
+  tagline: "AWS OSS施策ガイドライン",
   url: "https://github.com/ossmeasures/guide",
   baseUrl: "/",
   favicon: "img/favicon.png",
@@ -11,7 +11,7 @@ module.exports = {
   themeConfig: {
     image: "img/favicon.png",
     navbar: {
-      title: "OSS施作ガイドライン",
+      title: "OSS施策ガイドライン",
       logo: {
         alt: "Logo",
         src: "img/favicon.png",

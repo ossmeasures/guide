@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">OSS施作 活動ガイドライン</p>
+  <p align="center">OSS施策 活動ガイドライン</p>
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-OSS 施作活動のガイドライン
+OSS 施策活動のガイドライン
 
 ## Contribution
 

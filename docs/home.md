@@ -1,7 +1,7 @@
 ---
 id: home
-title: OSS 施作ガイドライン
-sidebar_label: OSS 施作ガイドライン
+title: OSS 施策ガイドライン
+sidebar_label: OSS 施策ガイドライン
 ---
 
 import useBaseUrl from "@docusaurus/useBaseUrl";
