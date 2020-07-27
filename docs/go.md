@@ -32,7 +32,6 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 
 <img
 alt="teams"
-width="100％"
 src={useBaseUrl("img/teams.png")}
 />
 
