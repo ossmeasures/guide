@@ -14,7 +14,9 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 
 ### 概要
 
-スプリントレビューでは全チームが集まり、成果物を共有します（同期的に Zoom などを使用して開催します）。必要に応じて他チームメンバーが実際に操作・閲覧できるよう工夫してください。
+スプリントレビューでは全チームが集まり、成果物を共有します。<br/>
+同期的に Zoom などを使用して開催する予定です。<br/>
+必要に応じて他チームメンバーが実際に操作・閲覧できるよう工夫してください。<br/>
 
 ### 成果物
 
@@ -30,6 +32,7 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 
 <img
 alt="teams"
+width="100%"
 src={useBaseUrl("img/teams.png")}
 />
 
@@ -43,7 +46,6 @@ src={useBaseUrl("img/teams.png")}
 
 <img
 alt="happy"
-width="500px"
 src={useBaseUrl("img/happy.svg")}
 />
 
@@ -62,7 +64,6 @@ src={useBaseUrl("img/happy.svg")}
   チームには新人からベテランまで様々なロールの方が想定されます。ただ、ベテランが新人に教えるのではチームと個人の成熟に限界があります。自発的に学び、新人はベテランに自分の学んだことをアウトプットするくらいの勢いで学習に望むくらいが良いですね。
 
 <img
-alt="happy"
-width="500px"
+alt="program"
 src={useBaseUrl("img/program.png")}
 />
