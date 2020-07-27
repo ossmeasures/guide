@@ -9,7 +9,7 @@ module.exports = {
   organizationName: "cloudformation-perfect-guide",
   projectName: "docs",
   themeConfig: {
-    image: "img/home.png",
+    image: "img/favicon.png",
     navbar: {
       title: "OSS施作ガイドライン",
       logo: {

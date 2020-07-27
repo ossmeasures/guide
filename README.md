@@ -1,6 +1,5 @@
 <h1 align="center">
   <p align="center">OSS施作 活動ガイドライン</p>
-  <a href="https://cloudformation-perfect-guide.netlify.app/docs/"><img src="./static/img/home.png" alt="home"></a>
 </h1>
 
 <p align="center">
