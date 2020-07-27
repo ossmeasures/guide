@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    はじめに: ["home", "theme", "go"],
+    はじめに: ["home", "theme", "go", "kickoff"],
   },
 };
