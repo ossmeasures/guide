@@ -3,7 +3,7 @@ const githubUrl = "https://github.com/ossmeasures/guide";
 module.exports = {
   title: "OSS施策ガイドライン",
   tagline: "AWS OSS施策ガイドライン",
-  url: "https://github.com/ossmeasures/guide",
+  url: "https://ossmeasures.netlify.app",
   baseUrl: "/",
   favicon: "img/favicon.png",
   organizationName: "cloudformation-perfect-guide",
