@@ -4,11 +4,19 @@ title: 今期のテーマ
 sidebar_label: 今期のテーマ
 ---
 
-import useBaseUrl from "@docusaurus/useBaseUrl";
+import useBaseUrl from "@docusaurus/useBaseUrl"; 
+
+<div style={{ marginBottom: '20px' }}>
+<img
+alt="idea"
+width="64px"
+src={useBaseUrl("img/idea.png")}
+/>
+</div>
 
 今期のテーマは
 
-### アジャイル形式でのアプリ開発を通して OSS を使いこなせ！
+<h3 style={{ textAlign: "center", color: "#2dae5b" }}>アジャイル形式でのアプリ開発を通して OSS を使いこなせ！</h3>
 
 です。
 
@@ -34,9 +42,9 @@ Web サービスのアイデアをチーム内で創出します。思考する�
 
 チームには必ずコーチをつけた上で、２週間スプリントでフィードバックサイクルをまわします。スプリントごとに、全てのチームが集まり、作成したアプリケーションを共有します。他のチームからレビューされるものと考えてください。コーチには技術的観点での支援をご依頼する予定です。チーム構成は以下を検討しています。
 
-- コーチ １名
-- エンジニア ２〜３名
-- 営業 １名
+* コーチ １名
+* エンジニア ２〜３名
+* 営業 １名
 
 <img
 alt="team-work"

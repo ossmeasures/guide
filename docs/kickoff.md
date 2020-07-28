@@ -6,6 +6,14 @@ sidebar_label: キックオフ
 
 import useBaseUrl from "@docusaurus/useBaseUrl"; 
 
+<div style={{ marginBottom: '20px' }}>
+<img
+alt="kick"
+width="64px"
+src={useBaseUrl("img/kick.png")}
+/>
+</div>
+
 ### 今期の OSS 施策について
 
 10:00-10:05 (TBD)
