@@ -14,6 +14,8 @@ src={useBaseUrl("img/kick.png")}
 />
 </div>
 
+2020.08.20 （木）
+
 ### 今期の OSS 施策について
 
 16:00-16:10
