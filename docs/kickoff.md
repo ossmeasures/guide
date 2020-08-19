@@ -66,9 +66,7 @@ src={useBaseUrl("img/postit.svg")}
 #### 予定時間を事前に教えてください
 
 各スプリントで使用する予定時間を集計します。
-以下 GoogleForm のリンクから、各スプリントで使用する予定時間をスプリントのはじめに入力ください。
-
-TODO: xxxx
+[こちらの Microsoft Forms ](https://forms.office.com/Pages/ResponsePage.aspx?id=wo-otLndDUa7wRG9CkGxvNMZf4zX0OFNhSbWoj8bxHRURTVCUDY4Slk3SzkxODg0WU82TDNQRFdGNi4u)に、入力ください。スプリントのはじめに登録をお願いします。
 
 ### QA
 
