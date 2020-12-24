@@ -34,7 +34,7 @@ src={useBaseUrl("img/oss_schedule.png")}
 
 # 想定している成果物
 
-現在実装している Web サービスの MVP(Minimum Viable Product)を作成してください。Web サービスが本格稼働できている状態は望ましいですが、３月までというスケジュールを考慮して、ユーザが使用する上で、もっとも価値があると想定される機能を実装してください。
+現在実装している Web サービスの MVP(Minimum Viable Product)を作成してください。Web サービスが本格稼働できている状態は望ましいですが、３月までというスケジュールを考慮して、ユーザが使用する上でもっとも価値があると想定される機能を実装してください。
 
 ### MVP(Minimum Viable Product)の例
 
