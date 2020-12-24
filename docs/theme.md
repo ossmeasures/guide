@@ -4,7 +4,7 @@ title: 今期のテーマ
 sidebar_label: 今期のテーマ
 ---
 
-import useBaseUrl from "@docusaurus/useBaseUrl"; 
+import useBaseUrl from "@docusaurus/useBaseUrl";
 
 <div style={{ marginBottom: '20px' }}>
 <img
@@ -24,7 +24,7 @@ src={useBaseUrl("img/idea.png")}
 
 ### 方式
 
-少人数のチーム（2~4 名）を編成し、有用な OSS を使いこなし、アプリケーションを開発します。また、必要であれば OSS を作成して公開します。1 ヶ月に 24 時間までこの施策に工数を使用して良いとしますが、実業務と調整の上、現実的な時間を使用してください。使用する予定時間と、実際に使用した時間は管理する予定です。
+少人数のチーム（2~4 名）を編成し、有用な OSS を使いこなし、アプリケーションを開発します。また、必要であれば OSS を作成して公開します。実業務と調整の上、現実的な時間を使用してください。使用する予定時間と、実際に使用した時間は管理する予定です。
 
 ### 特徴
 
